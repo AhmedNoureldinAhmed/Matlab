@@ -1,0 +1,8 @@
+ Frequency Table 
+ 
+ Class Limit 	 frequency  
+ 14 - 22 	  3 
+ 23 - 31 	  5 
+ 32 - 40 	  3 
+ 41 - 49 	  0 
+ 50 - 58 	  2 
